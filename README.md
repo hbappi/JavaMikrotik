@@ -1,6 +1,5 @@
 # JavaMikrotik
 
-# Summary
 RouterOS API access library written in Java. This code is also capable to connect to IPv6 addresses.
 
 # Licensing
